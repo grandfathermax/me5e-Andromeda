@@ -6,15 +6,16 @@ Initial release is copy of hist v1.9
 Due to the use of the Mass Effect name and the images that go along with items, Foundry has said they won't publish this module as they are a paid service and are understandably worried about copywrite usage.
 I was not paid to make this and all images were found on the internet.  Please refer to disclaimer.
 Copy this link into the add-on module prompt:
-https://github.com/Astrotech89/me5e-v141/releases/latest/download/module.json
+
+https://github.com/grandfathermax/me5e-Andromeda/releases/latest/download/module.json
 <img width="655" alt="image" src="https://github.com/Astrotech89/me5e-v141/assets/20007225/c6bae125-d40c-48bd-99be-4ca500c0f518">
 
 
 ## Next Updates
-   * Update Journals to match n7.world
-   * Work on Barrier ticks
-   * Further work on Shield HP
+   * Continue to update Journals to match n7.world
+   * Get Species to work properly with the character sheet
 
+<!-- 
 
 ## Goals
 * Update to support latest version of Foundry
@@ -29,7 +30,7 @@ https://github.com/Astrotech89/me5e-v141/releases/latest/download/module.json
 * Create ME5e Game system over module
     * Make new character sheet similar to TechKinghts Roll20
 * Integrate ME5e character builder into game system
-
+ -->
 <!-- 
 Beginning of Sparkcity's README
 
@@ -60,7 +61,7 @@ Beginning of Sparkcity's README
     * Item Catalogue (with separate: armor, weapons, weapon mods, armor mods, grenades, programs, and more)
     * Powers
     * Racial Features
-    * Species
+    * Species (Doesn't work properly)
     * Spells
     * Subclasses
     * Vehicles (Not finished)
