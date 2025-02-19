@@ -161,10 +161,10 @@
       }
     },
     {
-      "name": "species-me5e-14",
+      "name": "species-me5e-andromeda",
       "label": "Species (ME5e)",
       "system": "dnd5e",
-      "path": "packs/species-me5e-14",
+      "path": "packs/species-me5e-andromeda",
       "type": "Item",
       "flags": {},
       "ownership": {
@@ -173,10 +173,10 @@
       }
     },
     {
-      "name": "racial-features-me5e-14",
+      "name": "racial-features-me5e-andromeda",
       "label": "Racial Features (ME5e)",
       "system": "dnd5e",
-      "path": "packs/racial-features-me5e-14",
+      "path": "packs/racial-features-me5e-andromeda",
       "type": "Item",
       "flags": {},
       "ownership": {
