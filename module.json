@@ -3,7 +3,7 @@
   "title": "Mass Effect Andromeda 5e",
   "description": "A module to add support for Mass Effect:Andromeda 5e, an adaptation of the Mass Effect sci-fi universe to work with the dnd5e system.",
   "esmodules": [
-    "src/me5e.js"
+    "src/me5e-andromeda.js"
   ],
   "flags": {
     "compatible": [
