@@ -1,5 +1,5 @@
 {
-  "id": "me5e-Andromeda",
+  "id": "me5e-andromeda",
   "title": "Mass Effect Andromeda 5e",
   "description": "A module to add support for Mass Effect:Andromeda 5e, an adaptation of the Mass Effect sci-fi universe to work with the dnd5e system.",
   "esmodules": [
@@ -17,10 +17,10 @@
   ],
   "packs": [
     {
-      "name": "backgrounds-me5e",
-      "label": "Backgrounds (ME5e-Andromeda)",
+      "name": "backgrounds-me5e-andromeda",
+      "label": "Backgrounds (ME5e)",
       "system": "dnd5e",
-      "path": "packs/backgrounds-me5e",
+      "path": "packs/backgrounds-me5e-andromeda",
       "type": "Item",
       "flags": {},
       "ownership": {
@@ -29,10 +29,10 @@
       }
     },
     {
-      "name": "bestiary-me5e",
-      "label": "Bestiary (ME5e-Andromeda)",
+      "name": "bestiary-me5e-andromeda",
+      "label": "Bestiary (ME5e)",
       "system": "dnd5e",
-      "path": "packs/bestiary-me5e",
+      "path": "packs/bestiary-me5e-andromeda",
       "type": "Actor",
       "flags": {},
       "ownership": {
@@ -41,10 +41,10 @@
       }
     },
     {
-      "name": "classes-me5e-Andromeda",
-      "label": "Classes (ME5e-Andromeda)",
+      "name": "classes-me5e-andromeda",
+      "label": "Classes (ME5e)",
       "system": "dnd5e",
-      "path": "packs/classes-me5e-Andromeda",
+      "path": "packs/classes-me5e-andromeda",
       "type": "Item",
       "flags": {},
       "ownership": {
@@ -53,10 +53,10 @@
       }
     },
     {
-      "name": "subclasses-me5e-Andromeda",
-      "label": "Subclasses (ME5e-Andromeda)",
+      "name": "subclasses-me5e-andromeda",
+      "label": "Subclasses (ME5e)",
       "system": "dnd5e",
-      "path": "packs/subclasses-me5e-Andromeda",
+      "path": "packs/subclasses-me5e-andromeda",
       "type": "Item",
       "flags": {},
       "ownership": {
@@ -65,10 +65,10 @@
       }
     },
     {
-      "name": "class-features-me5e-Andromeda",
-      "label": "Class Features (ME5e-Andromeda)",
+      "name": "class-features-me5e-andromeda",
+      "label": "Class Features (ME5e)",
       "system": "dnd5e",
-      "path": "packs/class-features-me5e-Andromeda",
+      "path": "packs/class-features-me5e-andromeda",
       "type": "Item",
       "flags": {},
       "ownership": {
@@ -77,10 +77,10 @@
       }
     },
     {
-      "name": "feats-me5e",
-      "label": "Feats (ME5e-Andromeda)",
+      "name": "feats-me5e-andromeda",
+      "label": "Feats (ME5e)",
       "system": "dnd5e",
-      "path": "packs/feats-me5e",
+      "path": "packs/feats-me5e-andromeda",
       "type": "Item",
       "flags": {},
       "ownership": {
@@ -89,10 +89,10 @@
       }
     },
     {
-      "name": "item-weapons-Andromeda",
-      "label": "Item Weapons (ME5e-Andromeda)",
+      "name": "item-weapons-andromeda",
+      "label": "Item Weapons (ME5e)",
       "system": "dnd5e",
-      "path": "packs/item-weapons-Andromeda",
+      "path": "packs/item-weapons-andromeda",
       "type": "Item",
       "flags": {},
       "ownership": {
@@ -101,10 +101,10 @@
       }
     },
     {
-      "name": "item-armor-Andromeda",
-      "label": "Item Armor (ME5e-Andromeda)",
+      "name": "item-armor-andromeda",
+      "label": "Item Armor (ME5e)",
       "system": "dnd5e",
-      "path": "packs/item-armor-Andromeda",
+      "path": "packs/item-armor-andromeda",
       "type": "Item",
       "flags": {},
       "ownership": {
@@ -113,10 +113,10 @@
       }
     },
     {
-      "name": "item-gear-Andromeda",
-      "label": "Item Gear (ME5e-Andromeda)",
+      "name": "item-gear-andromeda",
+      "label": "Item Gear (ME5e)",
       "system": "dnd5e",
-      "path": "packs/item-gear-Andromeda",
+      "path": "packs/item-gear-andromeda",
       "type": "Item",
       "flags": {},
       "ownership": {
@@ -125,10 +125,10 @@
       }
     },
     {
-      "name": "item-mods-Andromeda",
-      "label": "Item Mods (ME5e-Andromeda)",
+      "name": "item-mods-andromeda",
+      "label": "Item Mods (ME5e)",
       "system": "dnd5e",
-      "path": "packs/item-mods-Andromeda",
+      "path": "packs/item-mods-andromeda",
       "type": "Item",
       "flags": {},
       "ownership": {
@@ -137,10 +137,10 @@
       }
     },
     {
-      "name": "powers-me5e",
-      "label": "Powers (ME5e-Andromeda)",
+      "name": "powers-me5e-andromeda",
+      "label": "Powers (ME5e)",
       "system": "dnd5e",
-      "path": "packs/powers-me5e",
+      "path": "packs/powers-me5e-andromeda",
       "type": "Item",
       "flags": {},
       "ownership": {
@@ -150,7 +150,7 @@
     },
     {
       "name": "vehiclesme5e",
-      "label": "Vehicles (ME5e-Andromeda)",
+      "label": "Vehicles (ME5e)",
       "system": "dnd5e",
       "path": "packs/vehiclesme5e",
       "type": "Actor",
@@ -162,7 +162,7 @@
     },
     {
       "name": "species-me5e-andromeda",
-      "label": "Species (ME5e-Andromeda)",
+      "label": "Species (ME5e)",
       "system": "dnd5e",
       "path": "packs/species-me5e-andromeda",
       "type": "Item",
@@ -174,7 +174,7 @@
     },
     {
       "name": "racial-features-me5e-andromeda",
-      "label": "Racial Features (ME5e-Andromeda)",
+      "label": "Racial Features (ME5e)",
       "system": "dnd5e",
       "path": "packs/racial-features-me5e-andromeda",
       "type": "Item",
@@ -186,7 +186,7 @@
     },
     {
       "name": "weapon-properties",
-      "label": "Weapon Properties (ME5e-Andromeda)",
+      "label": "Weapon Properties (ME5e)",
       "system": "dnd5e",
       "path": "packs/weapon-properties",
       "type": "JournalEntry",
