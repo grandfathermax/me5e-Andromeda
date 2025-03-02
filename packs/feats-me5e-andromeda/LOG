@@ -3,3 +3,5 @@
 2025/02/26-12:00:12.249946 70909d4006c0 Level-0 table #5: 125347 bytes OK
 2025/02/26-12:00:12.521758 70909d4006c0 Delete type=0 #3
 2025/02/26-12:00:12.522061 70909d4006c0 Manual compaction at level-0 from '!items!008NWsqrMtdaaVoK' @ 72057594037927935 : 1 .. '!items.effects!ychHEQGHlc6Ye4Xv.R6U6X4HmKvNlHKos' @ 0 : 0; will stop at (end)
+8NWsqrMtdaaVoK' @ 72057594037927935 : 1 .. '!items.effects!ychHEQGHlc6Ye4Xv.R6U6X4HmKvNlHKos' @ 0 : 0; will stop at (end)
+2025/03/02-20:04:28.107621 74345ac006c0 Manual compaction at level-1 from '!items!008NWsqrMtdaaVoK' @ 72057594037927935 : 1 .. '!items.effects!ychHEQGHlc6Ye4Xv.R6U6X4HmKvNlHKos' @ 0 : 0; will stop at (end)

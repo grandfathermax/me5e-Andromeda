@@ -3,3 +3,4 @@
 2025/02/26-12:00:17.612132 70909d4006c0 Level-0 table #5: 0 bytes OK
 2025/02/26-12:00:17.866999 70909d4006c0 Delete type=0 #3
 2025/02/26-12:00:17.867172 70909d4006c0 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+ 74345ac006c0 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
