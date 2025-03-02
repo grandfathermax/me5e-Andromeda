@@ -241,3 +241,63 @@ Hooks.on('renderActorSheet', (app, html, data) => {
 	
 	`);
 });
+heet-header')
+        .find('ul.attributes.flexrow');
+    const flags = data.actor.flags.me5e || {};
+    healthdiv.prepend(`
+		  		<li class="attribute shields">
+                    <h4 class="attribute-name box-title">Shields</h4>
+                    <div class="attribute-value multiple">
+                        <input name="flags.me5e.shields" type="text" value="${flags.shields ?? 0}" data-dtype="Number" placeholder="5"/>
+                        <span class="sep"> / </span>
+                        <input name="flags.me5e.shieldsMax" type="text" value="${flags.shieldsMax ?? 0}" data-dtype="Number" placeholder="5"/>
+                    </div>
+                    <footer class="attribute-footer">
+                        <input name="flags.me5e.shieldsRegen" type="text" class="shieldsRegen" placeholder="Shield Regen." value="${flags.shieldsRegen ?? 0}" data-dtype="Number"/>
+                    </footer>
+                </li>
+	  `);
+
+
+    const col = html
+        .find('section.center-pane.flexcol')
+        .find('ul.attributes.flexrow');
+    const counters = html.find('div.counters');
+    counters.append(`
+	<div class="counter flexrow indoctrination">
+    <h4> Indoctrination </h4>
+    <div class="counter-value">
+      <input type="text" name="flags.me5e.indoctrination" placeholder="0" value="${
+          flags.indoctrination ?? 0
+      }" data-dtype="Number"/>
+    </div>
+	</div>
+	
+	`);
+    col.prepend(`
+	
+    <li class="attribute reputation">
+        <h4 class="attribute-name box-title">Reputation</h4>
+        <div class="attribute-value attributable">
+        <input type="text" name="flags.me5e.paragon" placeholder="0" value="${
+            flags.paragon ?? 0
+        }" data-dtype="Number"/>
+            <span class="sep"> / </span>
+            <input type="text" name="flags.me5e.renegade" placeholder="0" value="${
+                flags.renegade ?? 0
+            }" data-dtype="Number"/>
+            
+        </div>
+
+
+        <footer class="attribute-footer">
+            <span class="spell-dc" >Paragon</span>
+            <span class="sep"> / </span>
+            <span class="spell-dc" >Renegade</span>
+        </footer>
+            
+        
+    </li>
+	
+	`);
+});
