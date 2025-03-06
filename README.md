@@ -1,6 +1,12 @@
-This is a framework that was originally created by Sparkcity for the Mass Effect 5e module for Foundry-VTT which was then updated by Astrotech89.  I am running a game in the Andromeda galaxy and wanted to have a stab at fixing some things for V12 and the latest 5e (maybe) and adding some new things.
+This is a framework that was originally created by Sparkcity for the Mass Effect 5e module for Foundry-VTT which was then updated by Astrotech89, my work is a continuation of their great work on this.  I will be running a game in the Andromeda galaxy and wanted to have a stab at fixing some things for V12 and the latest 5e (maybe) and adding some new things.
 
 I am new to Git, Foundry, javascript and JSON so bear with me if I am being daft.  If I have unintentionally disrespected Sparkcity or Astrotech89 then I apologise, tell me how I have and I will fix it.
+
+I have included their readme's as it is a continuation of their work, once I have something of mine to show I will amend it to include that.
+
+I do however have Species working properly for Angara and Asari (mostly), I just need to do the same work on the other Species.  Andromeda Species first
+
+EVERYTHING BELOW IS THEIR README
 
 Initial release is copy of hist v1.9
 
