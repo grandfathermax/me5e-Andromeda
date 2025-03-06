@@ -1,4 +1,6 @@
-This is a framework that was originally created by Sparkcity for the Mass Effect 5e module for Foundry-VTT which was then updated by Astrotech89.  I am running a game in the Andromeda galaxy and wanted to have a stab at fixing some things and adding some new things.
+This is a framework that was originally created by Sparkcity for the Mass Effect 5e module for Foundry-VTT which was then updated by Astrotech89.  I am running a game in the Andromeda galaxy and wanted to have a stab at fixing some things for V12 and the latest 5e (maybe) and adding some new things.
+
+I am new to Git, Foundry, javascript and JSON so bear with me if I am being daft.  If I have unintentionally disrespected Sparkcity or Astrotech89 then I apologise, tell me how I have and I will fix it.
 
 Initial release is copy of hist v1.9
 
