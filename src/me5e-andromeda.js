@@ -37,7 +37,10 @@ Hooks.once("init", () => {
         delete CONFIG.DND5E.languages.exotic.children.cant;
 
 
+//  CONFIG.DND5E.toolProficiences.art.children.tail = "Tailor's Tools";
+
 });
+
 
 //Changing out deprecated 5e skills to their replacements
 dnd5e.config.skills.arc = {label: "Electronics" , ability: "int"};
@@ -140,7 +143,7 @@ dnd5e.config.toolProficiencies['sssc'] = 'Starship Systems (SSC)';
 dnd5e.config.toolProficiencies['ssew'] = 'Starship Systems (EWS)';
 dnd5e.config.toolProficiencies['sswp'] = 'Starship Systems (Weapons)';
 dnd5e.config.toolProficiencies['ssnv'] = 'Starship Systems (Navigation)';
-dnd5e.config.toolProficiencies['tail'] = "Tailor's Tools";
+//dnd5e.config.toolProficiencies['tail'] = "Tailor's Tools";
 dnd5e.config.toolProficiencies['tink'] = "Tinker's Tools";
 dnd5e.config.toolProficiencies['wswb'] = "Weaponsmith's Workbench";
 

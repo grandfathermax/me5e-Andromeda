@@ -1,7 +1,15 @@
-2025/02/25-15:37:36.636627 70909fc006c0 Delete type=3 #1
-2025/02/26-12:00:12.883752 70909d4006c0 Level-0 table #5: started
-2025/02/26-12:00:13.015060 70909d4006c0 Level-0 table #5: 222209 bytes OK
-2025/02/26-12:00:13.181023 70909d4006c0 Delete type=0 #3
-2025/02/26-12:00:14.064702 70909d4006c0 Manual compaction at level-0 from '!items!0PLF30161Wq0LFuN' @ 72057594037927935 : 1 .. '!items.effects!zIalQNqzD7D7Zfp3.y2407hXRJRObqfjz' @ 0 : 0; will stop at (end)
-LF30161Wq0LFuN' @ 72057594037927935 : 1 .. '!items.effects!zIalQNqzD7D7Zfp3.y2407hXRJRObqfjz' @ 0 : 0; will stop at (end)
-2025/03/02-20:04:28.972455 74345ac006c0 Manual compaction at level-1 from '!items!0PLF30161Wq0LFuN' @ 72057594037927935 : 1 .. '!items.effects!zIalQNqzD7D7Zfp3.y2407hXRJRObqfjz' @ 0 : 0; will stop at (end)
+2025/03/04-11:57:40.170718 735bab2006c0 Recovering log #179
+2025/03/04-11:57:40.512756 735bab2006c0 Delete type=3 #177
+2025/03/04-11:57:40.512821 735bab2006c0 Delete type=0 #179
+2025/03/06-10:24:47.957747 735ba8a006c0 Level-0 table #184: started
+2025/03/06-10:24:48.230462 735ba8a006c0 Level-0 table #184: 296481 bytes OK
+2025/03/06-10:24:48.660315 735ba8a006c0 Delete type=0 #182
+2025/03/06-10:24:49.228428 735ba8a006c0 Manual compaction at level-0 from '!folders!5n2IMgKcFMPOlr1R' @ 72057594037927935 : 1 .. '!items.effects!zIalQNqzD7D7Zfp3.y2407hXRJRObqfjz' @ 0 : 0; will stop at (end)
+2025/03/06-10:24:50.925034 735ba8a006c0 Manual compaction at level-1 from '!folders!5n2IMgKcFMPOlr1R' @ 72057594037927935 : 1 .. '!items.effects!zIalQNqzD7D7Zfp3.y2407hXRJRObqfjz' @ 0 : 0; will stop at '!items.effects!fyO5H6LlT1e6xNYg.L1ILUC43eEXGV6i8' @ 491 : 1
+2025/03/06-10:24:50.925055 735ba8a006c0 Compacting 1@1 + 1@2 files
+2025/03/06-10:24:51.688316 735ba8a006c0 Generated table #185@1: 79 keys, 80664 bytes
+2025/03/06-10:24:51.688359 735ba8a006c0 Compacted 1@1 + 1@2 files => 80664 bytes
+2025/03/06-10:24:52.043715 735ba8a006c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/06-10:24:52.043930 735ba8a006c0 Delete type=2 #176
+2025/03/06-10:24:52.044091 735ba8a006c0 Delete type=2 #184
+2025/03/06-10:24:52.390113 735ba8a006c0 Manual compaction at level-1 from '!items.effects!fyO5H6LlT1e6xNYg.L1ILUC43eEXGV6i8' @ 491 : 1 .. '!items.effects!zIalQNqzD7D7Zfp3.y2407hXRJRObqfjz' @ 0 : 0; will stop at (end)

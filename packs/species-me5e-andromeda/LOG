@@ -1,7 +1,15 @@
-2025/02/25-15:37:40.484308 7090c4a006c0 Delete type=3 #1
-2025/02/26-12:00:15.251437 70909d4006c0 Level-0 table #5: started
-2025/02/26-12:00:15.514017 70909d4006c0 Level-0 table #5: 294364 bytes OK
-2025/02/26-12:00:16.099449 70909d4006c0 Delete type=0 #3
-2025/02/26-12:00:16.099788 70909d4006c0 Manual compaction at level-0 from '!items!0rp0HuIm4J1v5GBq' @ 72057594037927935 : 1 .. '!items!ymuiNDPNkSzmfvkj' @ 0 : 0; will stop at (end)
-t level-0 from '!items!0rp0HuIm4J1v5GBq' @ 72057594037927935 : 1 .. '!items!ymuiNDPNkSzmfvkj' @ 0 : 0; will stop at (end)
-2025/03/02-20:04:29.775280 74345ac006c0 Manual compaction at level-1 from '!items!0rp0HuIm4J1v5GBq' @ 72057594037927935 : 1 .. '!items!ymuiNDPNkSzmfvkj' @ 0 : 0; will stop at (end)
+2025/03/04-11:57:41.637239 735bab2006c0 Recovering log #175
+2025/03/04-11:57:41.929526 735bab2006c0 Delete type=0 #175
+2025/03/04-11:57:41.929574 735bab2006c0 Delete type=3 #173
+2025/03/06-10:24:52.788956 735ba8a006c0 Level-0 table #180: started
+2025/03/06-10:24:52.989981 735ba8a006c0 Level-0 table #180: 137004 bytes OK
+2025/03/06-10:24:53.203823 735ba8a006c0 Delete type=0 #178
+2025/03/06-10:24:53.425580 735ba8a006c0 Manual compaction at level-0 from '!folders!OOtg4ULzFVHnWTBB' @ 72057594037927935 : 1 .. '!items!ymuiNDPNkSzmfvkj' @ 0 : 0; will stop at (end)
+2025/03/06-10:24:53.425747 735ba8a006c0 Manual compaction at level-1 from '!folders!OOtg4ULzFVHnWTBB' @ 72057594037927935 : 1 .. '!items!ymuiNDPNkSzmfvkj' @ 0 : 0; will stop at '!items!whsqTeZD9lfjMRB0' @ 210 : 1
+2025/03/06-10:24:53.425787 735ba8a006c0 Compacting 1@1 + 1@2 files
+2025/03/06-10:24:53.592240 735ba8a006c0 Generated table #181@1: 26 keys, 90492 bytes
+2025/03/06-10:24:53.592279 735ba8a006c0 Compacted 1@1 + 1@2 files => 90492 bytes
+2025/03/06-10:24:53.751220 735ba8a006c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/06-10:24:53.751401 735ba8a006c0 Delete type=2 #180
+2025/03/06-10:24:53.751557 735ba8a006c0 Delete type=2 #140
+2025/03/06-10:24:54.302858 735ba8a006c0 Manual compaction at level-1 from '!items!whsqTeZD9lfjMRB0' @ 210 : 1 .. '!items!ymuiNDPNkSzmfvkj' @ 0 : 0; will stop at (end)
